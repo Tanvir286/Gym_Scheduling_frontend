@@ -2,7 +2,7 @@
 import axios from "axios";
 
 let api = axios.create({
-    baseURL: "http://localhost:3100"
+    baseURL: "https://app-2-8sqx.onrender.com/"
     
 })
 
